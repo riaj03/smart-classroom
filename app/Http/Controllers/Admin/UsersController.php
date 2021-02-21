@@ -38,7 +38,6 @@ class UsersController extends Controller
             return abort(401);
         }
         $users = User::where('role_id', 2)->all();
-        dd($users);
         return view('admin.users.teachers', compact('users'));
     }
 

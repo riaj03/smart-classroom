@@ -51,7 +51,7 @@ class Address extends \Faker\Provider\Address
         // Union Territories
         'Andaman and Nicobar Islands',
         'Chandigarh',
-        'Dadra and Nagar Haveli', 'Daman and Diu', 'Delhi',
+        'Dadra and Nagar Haveli', 'Daman and GU', 'Delhi',
         'Lakshadweep',
         'Puducherry'
     );

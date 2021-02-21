@@ -57,5 +57,5 @@ return [
 	'qa_back_to_list' => 'Обратно към списъка',
 	'qa_dashboard' => 'Табло',
 	'qa_delete' => 'Изтрий',
-	'quickadmin_title' => 'DIU Class Room',
+	'quickadmin_title' => 'GU Class Room',
 ];

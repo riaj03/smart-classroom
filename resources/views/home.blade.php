@@ -8,7 +8,7 @@
 
             <div class="panel-body">
                 <div class="alert alert-success">
-                        <strong>{{Auth::getUser()->name}}</strong> Welcome to DIU Class room.
+                        <strong>{{Auth::getUser()->name}}</strong> Welcome to GU Class room.
                 </div>
                 <div class="alert alert-info">
                         @if(Auth::getUser()->role_id == 1)
